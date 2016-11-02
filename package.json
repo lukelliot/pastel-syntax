@@ -1,0 +1,17 @@
+{
+  "name": "pastel-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Syntax highlighting for the Atom text editor inspired by pastel palettes.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "highlighting",
+    "pastel"
+  ],
+  "repository": "https://github.com/lukelliot/pastel-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
